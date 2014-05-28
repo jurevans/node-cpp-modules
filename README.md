@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # How to write node.js modules using C++
 
 This is a tutorial for writing [node.js](http://nodejs.org/) modules in C++. It is the base and reference for my talk on writing node.js modules with V8 at [JSConf 2011 in Berlin](http://jsconf.eu/2011).
@@ -9,3 +10,9 @@ Further references:
 * [An introduction to libuv](http://nikhilm.github.com/uvbook/)
 * [v8 Cookbook](http://create.tpsitulsa.com/wiki/V8_Cookbook)
 * [Google's C++ style guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
+=======
+node-cpp-modules
+================
+
+Guide for writing C++ node.js extensions
+>>>>>>> 82ced0d4c4892c6d0d8045b14a8a8e489f6b4657
